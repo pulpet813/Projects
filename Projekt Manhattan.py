@@ -1,3 +1,11 @@
+"""
+Program służący do obliczenia drogi przebytej przez otoczenie cząstki (poruszającej się ze stałą prędkością) w sensie relatywistycznym,
+lub drogę przebytą przez cząsteczkę, która porusza się ruchem jednostajnie przyspieszonym.
+
+Autorzy: Kamil Lenkiewicz, Rafał Filipek
+
+"""
+
 import tkinter as tk
 
 # Biblioteka numpy, sluzaca do optymalizowania projektu

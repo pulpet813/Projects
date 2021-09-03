@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 18 12:14:46 2021
 
-@author: kamle
+@author: Kamil Lenkiewicz
 """
 
 import time #Library needed for taking breaks in various situations
